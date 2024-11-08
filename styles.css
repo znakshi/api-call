@@ -1,0 +1,14 @@
+body {
+  background-color: #ffffff;
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #423722; 
+  color: white; 
+  font-size: 2em;
+  font-weight: 300;
+}
